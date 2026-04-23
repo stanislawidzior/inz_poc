@@ -2,9 +2,6 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
-#include <pthread.h>
-#include <stdbool.h>
-
 #include <sys/types.h>
 #include <sys/socket.h>
 
